@@ -1,0 +1,13 @@
+body{max-width:2000px}
+.toc {font-size:18px;font-family:helvetica}
+
+.notes{background-color:#7B0000;border-radius:15px;padding:3px;font-family:Courier New;font-size:20px;color:black;line-height:150%;border:3px solid black}
+
+.lesson{background-color:grey;border-radius:10px;padding:15px;border:3px solid black; margin:10px;text-align:center;color:white}
+
+.description{background-color:#DBDBDB;border-radius:10px;padding:10px;border:2px solid black;margin:10px}
+
+.sublesson{font-size:20px;margin:10px}
+
+
+
